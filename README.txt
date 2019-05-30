@@ -1,0 +1,1 @@
+Generates spongebob meme text via user input.
